@@ -2,10 +2,10 @@
 
  Hi there! 👋 I'm Rasul Shaikh
 
-🚀 Aspiring Full-Stack Developer & Ethical Hacker||
-🎓 BCA Second-Year Student||
-💻 Learning JavaScript, Web Development & Cybersecurity|| 
-🎮 Future Game Developer & Esports Enthusiast|| 
+🚀 Aspiring Full-Stack Developer & Ethical Hacker ||
+🎓 BCA Second-Year Student ||
+💻 Learning JavaScript, Web Development & Cybersecurity || 
+🎮 Future Game Developer & Esports Enthusiast || 
 
 
  🔧 Technologies & Tools:-
